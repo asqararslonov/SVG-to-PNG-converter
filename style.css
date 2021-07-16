@@ -1,0 +1,36 @@
+
+* {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  outline: none;
+}
+textarea {
+  height: 300px;
+  border-radius: 20px;
+}
+input {
+  height: 20px;
+  width: 130px;
+}
+button {
+  padding: 15px 29px;
+  border-radius: 22px;
+  background: rgb(4, 0, 253);
+  border: none;
+  color: white;
+}
+a {
+  /* text-decoration: none; */
+  color: black;
+  margin: 100px;
+}
+script,
+style, 
+title {
+  display: none;
+}
+  
